@@ -10,8 +10,8 @@ export const Bio = {
     "I’m a motivated and adaptable individual with a strong passion for learning and growth. I thrive on challenges and take pride in delivering high-quality results. With a proactive mindset and a positive attitude, I’m committed to making meaningful contributions and continuously improving in everything I do.",
   github: "https://github.com/",
   resume:
-    "https://drive.google.com/",
-  linkedin: "https://www.linkedin.com/in/arpitbaghla/",
+    "https://drive.google.com/file/d/1-KkWs9rwDhVyZbyYO_lJVaNqeQQ32UH5/view?usp=drive_link",
+  linkedin: "https://www.linkedin.com/in/krishnam-arora-48b920333/",
   twitter: "https://twitter.com/",
   insta: "https://www.instagram.com/",
   facebook: "https://www.facebook.com/",
