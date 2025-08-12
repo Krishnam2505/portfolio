@@ -8,7 +8,7 @@ export const Bio = {
   ],
   description:
     "I’m a motivated and adaptable individual with a strong passion for learning and growth. I thrive on challenges and take pride in delivering high-quality results. With a proactive mindset and a positive attitude, I’m committed to making meaningful contributions and continuously improving in everything I do.",
-  github: "https://github.com/",
+  github: "https://github.com/Krishnam2505",
   resume:
     "https://drive.google.com/file/d/1-KkWs9rwDhVyZbyYO_lJVaNqeQQ32UH5/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/krishnam-arora-48b920333/",
@@ -467,10 +467,10 @@ export const projects = [
     description:
       "A visually appealing MERN stack expense tracker that allows users to manage incomes and expenses with ease. Built using React with styled-components, it features a responsive dashboard, navigation bar, and separate views for income and expenses. State and data are managed globally using React Context, while a dynamic layout and memoized background animation (Orb) enhance performance and user experience.",
     image:
-      "https://github.com/arpitbaghla/expense-tracker/blob/main/Screenshot%202025-06-29%20at%2022.11.48.png?raw=true",
+      "https://github.com/Krishnam2505/expense-tracker/blob/main/Screenshot%202025-08-12%20at%209.59.24%E2%80%AFPM.png?raw=true",
     category: "web app",
-    github: "https://github.com/arpitbaghla/expense-tracker",
-    webapp: "https://expenses-arpit.netlify.app/",
+    github: "https://github.com/Krishnam2505/expense-tracker",
+    webapp: "https://krishnamexpense.netlify.app/",
   },
   {
     id: 10,
@@ -479,10 +479,10 @@ export const projects = [
     description:
       "An interactive 3D portfolio website developed using React and Three.js to showcase projects, skills, and experience in a visually engaging format. Integrates smooth animations, responsive design, and modular components to deliver a modern and immersive user experience.",
     image:
-      "https://raw.githubusercontent.com/arpitbaghla/portfolio/refs/heads/main/Screenshot%202025-06-15%20at%2023.13.03.png",
+      "https://github.com/Krishnam2505/portfolio/blob/main/Screenshot%202025-08-12%20at%209.52.43%E2%80%AFPM.png?raw=true",
     category: "web app",
-    github: "https://github.com/arpitbaghla/portfolio",
-    webapp: "https://arpitbaghla.netlify.app/",
+    github: "https://github.com/Krishnam2505/portfolio",
+    webapp: "https://krishnamarora.netlify.app/",
   },
   {
     id: 11,
@@ -493,8 +493,8 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/arpitbaghla/maze_game/refs/heads/main/Screenshot%202025-06-15%20at%2022.37.28.png",
     category: "web app",
-    github: "https://github.com/arpitbaghla/maze_game",
-    webapp: "https://youtu.be/99WviYV72B0",
+    github: "https://github.com/Krishnam2505/maze_game",
+    webapp: "https://youtu.be/9UQ6HM86sIw",
   },
   // {
   //   id: 9,
