@@ -84,7 +84,7 @@ const Footer = () => {
     return (
         <FooterContainer>
             <FooterWrapper>
-                <Logo>Arpit Baghla</Logo>
+                <Logo>Krishnam Arora</Logo>
                 <Nav>
                     <NavLink href="#About">About</NavLink>
                     <NavLink href="#Skills">Skills</NavLink>
@@ -106,7 +106,7 @@ const Footer = () => {
                         <Instagram />
                     </SocialMediaIcon>
                 </SocialMediaIcons>
-                <Copyright>&copy; 2025 Arpit Baghla. All rights reserved.</Copyright>
+                <Copyright>&copy; 2025 Krishnam Arora. All rights reserved.</Copyright>
             </FooterWrapper>
         </FooterContainer>
     );
